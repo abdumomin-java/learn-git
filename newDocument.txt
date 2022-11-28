@@ -2,3 +2,4 @@ Hi
 Hello World
 Yangi qator
 Burxon kod yozdi
+Bu merge confilict uchun
