@@ -1,0 +1,3 @@
+   Technical Skills: Java (Advanced), Web services (Experienced), Database (Postgres, Mysql, Oracle), Github, HTML
+   Industry Knowledge: Spring MVC, Spring Security, Spring Boot (Advanced), JavaServer Pages (JSP), Program testing,
+Debugging
